@@ -14,6 +14,6 @@ How to Play
 3) Keep flapping to see how far you can go and challenge your high score!
 
 This Project is completed by:
-1) Manas Goel
-2) Rajat Singh
-3) Pooja Malhotra
+1) Manas Goel SAP: 1000016211
+2) Rajat Singh SAP: 1000016348
+3) Pooja Malhotra SAP: 1000015926
